@@ -5,6 +5,7 @@ void main() {
 }
 //
 class MyApp extends StatelessWidget {
+  //MyApp erbet von StatelessWidget , muss dafür die Methode build nutzen zum erstellen
   const MyApp({super.key});
 
   // This widget is the root of your application.
